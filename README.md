@@ -22,6 +22,8 @@ DYNAMODB_REGION=us-east-1<br/>
 MQTT_USERNAME=XXXXXXXXX <br/>
 MQTT_PASSWORD=XXXXXXXXX <br/>
 
+
+## Python running
 ```sh
 #!/bin/bash
 yum install -y gcc-c++ make git
